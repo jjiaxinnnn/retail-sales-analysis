@@ -1,9 +1,9 @@
-### **URL**: https://public.tableau.com/app/profile/jia.xin.chan/viz/customer-shopping/Dashboard
+# **URL**: https://public.tableau.com/app/profile/jia.xin.chan/viz/customer-shopping/Dashboard
 
-**Domain**<br/>
+## **Domain**<br/>
 The selected domain is Retail Sales, where data visualisation is utilised to represent customer behavior, sales trends, and product popularity.
 
-**Dataset**<br/>
+## **Dataset**<br/>
 **URL**: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset<br/>
 **Author**: Mehmet Tahir Aslan<br/>
 This dataset from Kaggle contains shopping information from 10 different shopping malls in Istanbul between 2021 and 2023, which allows us to understand the shopping trends and patterns in Istanbul (Aslan, 2023). However, I only used the data from 2021 to 2022 as the data for 2023 is incomplete.
